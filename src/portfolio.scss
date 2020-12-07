@@ -133,7 +133,7 @@
 }
 /* ----------------------------------------------------------- */
 .aboutPage {
-    background-color: #081b33;
+    background-color: #aeaeb2;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -168,7 +168,7 @@
 }
 .rightAbout {
     color: #000000;
-
+    padding: 35px 0px;
     background-color: #c7c7cc;
     display: flex;
     justify-content: center;
@@ -342,6 +342,12 @@
     margin: auto;
     margin-top: 3px;
     margin-bottom: 3px;
+}
+.portfolioVolunteerExpansionPanel .portfolioCardDateContainer {
+    padding: 0px 12px;
+    width: auto;
+    margin-left: 0px;
+    margin-right: auto;
 }
 .expansionSummary {
     background: #c7c7cc !important;
